@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SI WALANG KAWALAN hahaha
+=======
+SI WALANG KAWALAN 
+>>>>>>> c37e797a15ed62fc50f135b1e106c901bc2c6d78
